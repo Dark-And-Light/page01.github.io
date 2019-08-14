@@ -77,7 +77,11 @@ header,nav,main,footer{
     padding: 0 38px;
 }
 #top .right li:nth-child(3){
-   padding-right: 10px;
+   padding: 10px 10px 0;
+   
+}
+#top .right li:nth-child(4){
+    padding-top: 10px;
 }
 /* 小图标居中兼容未处理 */
 
